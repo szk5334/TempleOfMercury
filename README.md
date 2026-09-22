@@ -2,6 +2,8 @@
 
 *A practice kept in a notebook, by hand. This is the Seed: the whole Temple in brief, made to be copied, changed, and handed on.*
 
+> **This README is an excerpt.** It is Part Zero, the Seed, of *The Book of the Temple of Mercury* (88 pages), reproduced here in full. The Book itself, with the Model Book, the Mercurial Psalter, a Mercurial Almanac, and the Dyadic Neo-Enochian Companion, is on the shelf: open `index.html` in this repository, or the PDFs beside it. Nothing beyond this page is required to begin.
+
 ---
 
 ## Is This for You?
@@ -144,7 +146,7 @@ Every session opens and closes. Change the words until they sound like you and y
 
 > Heart of the Temple, Mercury its Hinge, and all its Offices:  
 > I leave here my gratitude and my joy, and take my Will and Intent into the world.  
-> Word into deed. The Door is closed.  
+> Word into deed. By my Birthright, the Door is closed.  
 
 ### A session
 
@@ -190,7 +192,16 @@ Leave a copy where someone will find it. You may be their hermaion.
 
 ---
 
-The full Book of the Temple of Mercury, the Model Book, the Psalter, the
-Almanac, and the Companion on the system it grew from are in this
-repository. None of them are required. A notebook, a pen, and honesty are
-the whole requirement.
+## The shelf
+
+This page is Part Zero of a longer Book. The rest is in this repository, on one page (`index.html`) and as PDFs:
+
+| Book | Pages | What it is |
+|---|---|---|
+| The Book of the Temple of Mercury | 88 | The whole Temple, tiered from the Seed to the Deep Temple. This README is its Part Zero. |
+| The Model Book | 28 | A notebook shown fully set up, so you can see what the Book is meant to be. |
+| The Mercurial Psalter | 22 | Hymns, collects, convening prayers, antiphons, a litany, and blessings. Say them aloud. |
+| A Mercurial Almanac 2027 | 6 | Every day of the Calendar, set against the sky of one year. Write your own Moving Days in. |
+| Dyadic Neo-Enochian: A Companion | 15 | Where the five names of the Heart came from, and how to work with them directly. Never required. |
+
+None of them are required. A notebook, a pen, and honesty are the whole requirement.
