@@ -1,207 +1,103 @@
 # The Temple of Mercury
 
-*A practice kept in a notebook, by hand. This is the Seed: the whole Temple in brief, made to be copied, changed, and handed on.*
+*A journaling practice with a god in it.*
 
-> **This README is an excerpt.** It is Part Zero, the Seed, of *The Book of the Temple of Mercury* (88 pages), reproduced here in full. The Book itself, with the Model Book, the Mercurial Psalter, a Mercurial Almanac, and the Dyadic Neo-Enochian Companion, is on the shelf: open `index.html` in this repository, or the PDFs beside it. Nothing beyond this page is required to begin.
+Most journals die because no one rereads them. This one lives because you answer it.
 
----
+If you have more ideas than finished projects, more talent than follow-through, and a life that should be going somewhere by now, this was built for you. If you came here in a hard hour and just need somewhere to set things down, it was built for that too.
 
-## Is This for You?
-
-*What the Temple of Mercury offers*
-
-This is a journaling practice with a god in it.
-
-### Do you want more?
-
-More done, more made, more luck, more life? More ideas than finished projects, more talent than follow-through? Read on.
-
-### Or do you need somewhere to set things down?
-
-Grief, confusion, a faith that no longer fits, a mind that will not stop. The Book holds those too, and asks nothing of you but honesty. If you came in a hard hour, there is a page for that at the front of the full Book.
-
-### What it is
-
-It is deceptively simple: write semi-regularly, and every time you do, reread earlier entries and respond to them. Your notebook becomes a running conversation with your past self instead of a pile of pages you never open again.
-
-Research on expressive and reflective writing has linked habits like this to lower stress, clearer thinking, and better problem-solving. Ten honest minutes you will repeat beat an hour you will dread.
-
-One rule makes it work: do not lie to the Book. Lying in your dialogue with yourself only deceives your future self, and that is all it does.
-
-### What is on offer
-
-The practice is the door. The Temple of Mercury is what lies beyond it, and access to the Temple is what is on offer: luck, knowledge, abundance, and success, reached through your own faculties.
-
-The Temple feeds your writing and inner dialogue with answers, knowledge, and flashes of insight. Its practices draw on the power of the god of the crossing to give you clear sight into how you actually solve problems, answer impossible questions, manifest new realities, and get paid. Its company of helpers stands ready to unlock the magick behind your words. You are a co-conspirator, and the gods are willing to help you.
-
-This is the old work of turning lead into gold, in both senses: knowing thyself, as the alchemists meant it, and exchanging goods, services, and ideas for money. Dialogue becomes answers, decisions, plans, and abundance.
-
-### What magick does, and does not do
-
-Magick nudges the odds. It helps you find favor and opportunity, draws people into your life who can help you, and finds you walking forward through situations that seemed impossible, knowing that the road's destination is yours to make.
-
-You still have to take physical action toward what you want. That never goes away, and anything promising to take it away is lying.
-
-### Where the magick starts
-
-It starts smaller than you think: with a promise to yourself, kept. Write down one thing you will do, and do it. Then another. Every promise kept makes your word a little heavier, and a heavy word is what makes a declaration work.
-
-That is the shape of the whole thing. Weigh your words before you write or speak them. Treat what you write and say as binding unless you say otherwise. Keep what you bind. Integrity is not the price of the magick; it is the magick, and the world begins to take you at your word.
-
-### A system of belief
-
-The Temple of Mercury provides a system of belief, and we use belief as a tool to get what we want. Mercury does not moralize; he is the god of merchants and thieves alike. You are free to choose; you are not free from the consequences. Ma'at is always an option, but never an obligation. As above, so below: you reap what you sow.
-
-### Take the magick or leave it
-
-You do not have to believe any of this to begin. Try the writing, and watch your world change. The magick will be here when you want to come back for it.
-
-### What stops people
-
-- **"I've tried journaling and quit."** Most journals die because no one ever rereads them. This one lives because you answer it.
-- **"I don't know what to write."** Finish three sentences: What's on my mind right now is... What I keep avoiding is... What I actually want is... They never run out.
-- **"Someone might read it."** Keep it with you, or write in your own shorthand. The Book is private.
-- **"I'm not religious."** You don't have to be. The practice works on its own.
-- **"My handwriting is terrible."** The Book is written for one reader, and you can read it.
-- **"I don't have time."** Three lines is a session.
-
-### What we want
-
-To see a world full of people fulfilling their Personal Legend. We believe this simple, semi-regular writing practice starts everyone who can keep it up down the path of materializing the life they have always wanted to live.
-
-We help because we like to see people make it further. If the Temple works for you, pass the luck on.
+It asks for a notebook, a pen, and ten honest minutes. Everything else is optional.
 
 ---
 
-## Are You A Mercurian?
+## What it is
 
-*The signs of those the Temple calls*
+You keep a notebook for this and nothing else. We call it the Book. Every time you open it, you do four things:
 
-### The Mercurian
+1. **Write** what is actually on your mind, without dressing it up.
+2. **Reread** the last session or two.
+3. **Respond** to the person who wrote them. Answer by page number: what happened since, what changed, where past-you was right or wrong.
+4. **Carry** one thing out into the world, and treat it as a promise. Next time, begin by asking whether you kept it.
 
-Mercury is the god of the quick: of merchants and messengers, deals and roads, luck, speech, and thieves. His name is often tied to merx, the Latin for goods to trade. A Mercurian is a person who runs on his current. Mercurians are not made by joining. They recognize themselves.
+That last question, answered honestly, is the whole engine.
 
-### The signs
+The Temple of Mercury is what grows around that practice: a god of thresholds, trade, and luck; a small company of old figures you can call on; and a few simple rites that turn the notebook into a place and the writing into a working.
 
-- **You think in words.** Writing or speaking is how you find out what you think.
-- **You translate.** You carry meaning between worlds, and people bring you things to explain.
-- **You are curious past usefulness.** You gather systems, symbols, and connections for the joy of seeing how they fit, and keep many works alive at once.
-- **You are quick.** You learn fast, improvise well, and can walk a road without knowing where it ends.
-- **You stand in doorways.** People find you when they are crossing: the teacher, the guide, the one called in the night.
-- **You play.** Riddles, wordplay, clever solutions, and the trickster's instinct for the angle no one else saw.
-- **You connect.** You are happiest when something is moving between people: ideas, introductions, trade, stories.
-- **You hold two at once.** You argue fruitfully with yourself, and sometimes sense a twin walking beside you.
+## Why it works
 
-### The leak
+None of this requires you to believe anything.
 
-The Mercurian's problem is rarely talent. It is leakage: scattered attention, unfinished work, a mind that circles without landing, clever words used to dodge what you actually feel. It is the same quicksilver that makes you quick, spilling out of anything that cannot hold it.
+- **Writing gives a thing edges.** A worry in your head is a cloud. On the page it has a shape, and most of what haunts a person turns out to be smaller once it does.
+- **Rereading shows you your circles.** The problem you have written about six times is not a mystery. It is a pattern.
+- **Responding closes the loop** between what you meant to do and what happened, which is how anyone learns anything.
+- **Carrying makes your word heavy.** Every small promise kept teaches the deep mind that your words are real. A heavy word is what makes a declaration land, in the Book and in the world.
 
-Quicksilver takes the shape of its vessel. Give it one, and it goes where you point it.
+The one rule: **do not lie to the Book.** A lie on the page deceives only your future self. Honesty here is not a virtue you perform; it is engineering. A Book you lie to gives you bad data.
 
-### What you gain by owning your Mercurial heritage
+## The god in it
 
-- **Follow-through.** Every session ends with one thing to carry out into the world. Ideas start becoming deeds.
-- **Clarity.** Rereading and answering your own pages shows you your patterns: what you keep circling, what you keep dodging, and what actually works.
-- **A record that compounds.** Every honest page adds to a conversation with who you were and who you are becoming. The Book gets smarter as you do.
-- **Luck in motion.** The Greeks called a lucky find a hermaion, a gift of Hermes. It comes to the one who is moving.
-- **Company.** A god of the quick at your shoulder, and a lineage of tricksters, scribes, and messengers behind you.
+**Mercury** is the god of the crossing: of roads and doorways, merchants and messengers, speech, luck, and the right moment. The Greeks called a lucky find a *hermaion*, a gift of Hermes, and said it comes to the one who is moving.
 
-### The invitation
+You do not kneel to him. You work with him, as a co-conspirator, which in the old sense means *one who breathes together*. At the center of the Temple is the **Heart**, which has no face and cannot be bargained with, but answers in flashes: the insight that arrives sideways, the choice that goes better than it had any right to. Beside Mercury stands **Ma'at**, the feather of truth, because a god who carries anything needs something to carry it toward.
 
-You will be surprised by what you uncover, and you will uncover it at your own pace. You never have to write about anything you are not ready to. If what surfaces is too heavy to carry alone, bring it to someone you trust.
+The Temple is openly assembled, in the spirit of chaos magic, from Greek, Roman, Egyptian, Abrahamic, and Enochian tradition. It was built on purpose and found to have been there all along.
 
-You can stop anytime. You owe nothing, and your Books are yours.
+## What it does not ask
 
-Try it three times this week. Before you turn the page, decide when and where: after what, and at which table? Write the three days on the first page of your notebook, and keep them. That is your first promise, and your first working.
+- No membership, no fees, no clergy, and no one who speaks for the Heart.
+- No purity, no obedience, no merit in suffering, and nothing you need to be saved from.
+- No belief up front. Belief here is a tool, chosen on purpose and judged by its fruit: is your life moving where you want it to go?
+- No obligation to continue. You can stop anytime. You owe nothing, and your Books are yours.
 
-Picture it: tonight, the notebook open, the date in the corner, the first sentence not quite right, and you writing it anyway. Belief is a tool; judge it by its fruit.
+There is nothing here to convert anyone to. It is left where it can be found, and you are welcome to it.
 
----
+## Are you a Mercurian?
 
-## The Temple of Mercury
+Mercurians are not made by joining. They recognize themselves.
 
-*The Seed: the whole Temple in brief, for whoever finds it*
+- You think in words. Writing or speaking is how you find out what you think.
+- You translate. People bring you things to explain.
+- You are curious past usefulness, and keep many works alive at once.
+- You are quick, and can walk a road without knowing where it ends.
+- You stand in doorways. People find you when they are crossing.
+- You play: riddles, wordplay, the angle no one else saw.
+- You connect. You are happiest when something is moving between people.
+- You hold two at once, and sometimes sense a twin walking beside you.
 
-### The spine
+If that is you, the Temple was built for your wiring. If it is not, the practice still works. It works for anyone who does it.
 
-Mercury is the Hinge. The Heart is the center. Honesty is the offering. Keep these three, and change everything else.
+## Start tonight
 
-**Mercury, the host and medium.** God of thresholds, words, trade, and the road. Everything in the Temple passes through him. You work with him, not for him.
+Any notebook. Any pen. Ten minutes.
 
-**The Heart.** The Quintessence: five names from the Enochian Tablet of Union, AONT at the still point, with EHNB, XCAI, RMTO, and PAAM around it.
+1. Write today's date at the top of the page.
+2. Finish three sentences: *What's on my mind right now is... What I keep avoiding is... What I actually want is...*
+3. Write one thing you will do in the next twenty-four hours.
+4. Then do it.
 
-**Honesty, the offering.** Not as a virtue: as engineering. A Book you lie to gives you bad data. Give the Book Truth. Honesty is not the same as Disclosure: tell the Book everything, and the world only what it is ready to receive. The trickster may fool anyone but himself.
-
-### The door
-
-Every session opens and closes. Change the words until they sound like you and you mean them.
-
-*Opening:*
-
-> Heart of the Temple, Mercury its Hinge, and all its Offices, co-conspirators in the Work:  
-> I bring you my whole self: my Voice, and my Joy, Will, and Intent.  
-> Deed into word. By my Birthright, the Door is open.  
-
-*Closing:*
-
-> Heart of the Temple, Mercury its Hinge, and all its Offices:  
-> I leave here my gratitude and my joy, and take my Will and Intent into the world.  
-> Word into deed. By my Birthright, the Door is closed.  
-
-### A session
-
-- **Open.** Speak the Door.
-- **Empty.** Clear your head onto the page, without dressing it up. Write questions down as they come.
-- **Reread.** The pages that came before.
-- **Respond.** Answer your past self: what happened, what changed, what you know now.
-- **Shape.** Let a plan, a decision, or an idea take form.
-- **Carry.** Name one thing to do, send, or make today. Treat it as a promise, and keep it. Word into deed.
-- **Thank.** Give thanks for what came.
-- **Close.** Speak the Door again.
-
-Number the pages and date each session, so you can answer an earlier page by name. Each session begins by asking whether you kept what you carried. That question, answered honestly, is the whole engine.
-
-### The place
-
-Kept this way, the Book grows a spirit of its own, the Genius Loci, the way a house becomes a home. It is fed by use and enjoyment: a notebook you like, a pen that feels good, a few minutes you look forward to. Away for a long time? Do not apologize. Open the Door and greet it.
-
-### House rules
-
-> Honesty is the offering.  
-> Sustainable practice beats grand practice abandoned.  
-> Tell the Book everything; tell the world only what it is ready to receive.  
-> Belief is a tool; judge it by its fruit.  
-> Your word is binding unless you say otherwise; the Ledger is where it is kept.  
-> Word into deed.  
-
-### What waits
-
-The Temple is purely, pointedly syncretic. Its beings come from Egyptian, Greek, Roman, Abrahamic, and Enochian tradition, and they are met as co-conspirators, in the old sense of breathing together, with no sense of supplication. You do not kneel here; you make deals, trade, and work.
-
-It was assembled deliberately, in the spirit of chaos magic, and later found to have been there all along: the Temple existed before it was built. When you want to know who you have been meeting, they are in *The Book of the Temple of Mercury*.
-
-### Pass it on
-
-Copy this. Change it. Give it away. Keep the spine, and it is this Temple.
-
-Leave a copy where someone will find it. You may be their hermaion.
-
----
-
-**Close this Book. Open any notebook. Write today's date.**
-
----
+That kept promise is where the magick starts. Everything else can wait.
 
 ## The shelf
 
-This page is Part Zero of a longer Book. The rest is in this repository, on one page (`index.html`) and as PDFs:
+Everything is free, and everything is here. Open [`index.html`](index.html) for the whole shelf on one page, or take the books directly.
 
-| Book | Pages | What it is |
-|---|---|---|
-| The Book of the Temple of Mercury | 88 | The whole Temple, tiered from the Seed to the Deep Temple. This README is its Part Zero. |
-| The Model Book | 28 | A notebook shown fully set up, so you can see what the Book is meant to be. |
-| The Mercurial Psalter | 22 | Hymns, collects, convening prayers, antiphons, a litany, and blessings. Say them aloud. |
-| A Mercurial Almanac 2027 | 6 | Every day of the Calendar, set against the sky of one year. Write your own Moving Days in. |
-| Dyadic Neo-Enochian: A Companion | 15 | Where the five names of the Heart came from, and how to work with them directly. Never required. |
+| Book | What it is |
+|---|---|
+| **[The Way of Mercury](The_Way_of_Mercury_-_Full_Size.pdf)** ([pocket edition](The_Way_of_Mercury_-_Pocket.pdf)) | **Start here.** Everything you need to walk the Way, and nothing more: who you need to know, how to live, the practice and the Book, the workings, the prayers, the year. |
+| [The Book of the Temple of Mercury](The_Book_of_the_Temple_of_Mercury_-_Tiered.pdf) | The whole of it, with the reasons behind every practice. Layered, so you can stop at any depth. |
+| [The Model Book](The_Book_of_the_Temple_of_Mercury_-_Model_Book.pdf) | A notebook shown fully set up. Open it beside a blank one when you make your own. |
+| [The Mercurial Psalter](The_Mercurial_Psalter.pdf) | Hymns, prayers, and blessings, for saying aloud. |
+| [A Mercurial Almanac 2027](A_Mercurial_Almanac_2027.pdf) | The Temple's days set against one year's sky. |
+| [Dyadic Neo-Enochian](Dyadic_Neo-Enochian_-_Companion.pdf) | Where the five names of the Heart came from. Never required. |
 
-None of them are required. A notebook, a pen, and honesty are the whole requirement.
+None of them is required. A notebook, a pen, and honesty are the whole requirement.
+
+## Pass it on
+
+Copy it. Change it. Give it away. Change the words of every prayer until each line sounds like you and you mean it. Keep three things, and it is still this Temple: Mercury as host, the Heart at the center, and honesty as the offering.
+
+If it works for you, pass the luck on. You may be someone's *hermaion*.
+
+---
+
+**Close this page. Open any notebook. Write today's date.**
