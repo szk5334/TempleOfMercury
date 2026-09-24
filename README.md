@@ -20,13 +20,15 @@ Do not lie to yourself. Keep your word.
 
 ## The company
 
-Eight pairs of Offices stand around the Heart, each receiving a faculty you bring to the Door: Janus and Hestia (the Dwelling), Metatron and Sandalphon (the Hands), Uriel and Raziel, the Gate (the Ears), Gabriel and Idris (the Eyes), Seshat and Iris (the Word), Rosmerta and the Charites (the Delight), Hermanubis and Ma'at (the Heart), Thermes and Apharael (the Craft).
+Eight pairs of Offices stand around the Heart, each receiving a faculty you bring to the Door: Janus and Hestia (Time), Metatron and Sandalphon (the Hands), Uriel and Raziel, the Gate (the Ears), Gabriel and Idris (the Eyes), Seshat and Iris (the Word), Rosmerta and the Charites (the Delight), Hermanubis and Ma'at (the Heart), Thermes and Apharael (the Mind).
 
 Mercury, Thermes, and Hermanubis are the Thrice-Great. Apharael, Hestia, and Ma'at keep the Compass. They are met as co-conspirators. Nothing here is supplication, and no one stands at the top.
 
 ## The practice
 
 Six moves every session: greet, empty, respond, work, carry, thank. Every session begins with one question, answered from memory: *did I keep what I carried?*
+
+When you want your life to move somewhere, choose a Goal, bind it in the Ledger as a promise to yourself, and walk the roads it could arrive by. The Road shows how, one Goal at a time, and the Legend waits until you want the big picture.
 
 ## The magick
 
