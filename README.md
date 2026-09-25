@@ -1,8 +1,10 @@
-# The Temple of Mercury
+# The Way of Mercury
 
 *A journaling practice with a god in it.*
 
-The Temple of Mercury is a syncretic magickal practice built around a handwritten notebook, the Book. You write, you reread what you wrote, you answer it, and you carry one promise out into the world. Every kept promise makes your word heavier, and a heavy word is what makes a declaration land. That is the Temple's one mechanism. Everything else is built around it.
+The Way of Mercury is a syncretic magickal practice built around a handwritten notebook, the Book. You write, you reread what you wrote, you answer it, and you carry one promise out into the world. Every kept promise makes your word heavier, and a heavy word is what makes a declaration land. That is the Way's one mechanism. Everything else is built around it.
+
+The Way is walked in the Temple of Mercury: the Heart, the host, and the company, standing wherever something crosses, thought onto page and word into deed.
 
 ## The spine
 
@@ -32,7 +34,7 @@ When you want your life to move somewhere, choose a Goal, bind it in the Ledger 
 
 ## The magick
 
-The Casting (Emotional Transmutation), Declarative Alignment, the Invocations of the Pillar, and the seven prayers of the Work. The Ledger keeps your side of every working and the Tally keeps the world's. Declare the destination, never the road, and walk the bridge.
+The Casting (Emotional Transmutation), Declarative Alignment, the Invocations of the Pillar, the Clearing, and the nine prayers of the Work. The Ledger keeps your side of every working and the Tally keeps the world's. Declare the destination, never the road, and walk the bridge.
 
 ## What it does not promise
 
@@ -46,7 +48,8 @@ Rescue, guaranteed results, anything after death, or a world that bends without 
 | The Book of the Temple of Mercury | The reference library: the whole company, the reasons, the rule in full. |
 | The Seed | The whole Temple on one leaf, made to be copied. |
 | The Model Book | A notebook shown fully set up. |
-| The Book of Words | Everything the Temple says aloud: the Door, the callings, the sayings, and the spells. |
+| The Book of Words | Everything the Temple says: the Door, the callings, the sayings, and the spells. |
+| The Sayings of the Way | What the Way means: every principle, and the sayings of the seats, each with what it means and how to keep it. |
 | A Mercurial Almanac | One year's sky: the feasts, the Mercury cycle, the Moon. |
 | Dyadic Neo-Enochian | The Enochian system the Temple grew from. |
 
